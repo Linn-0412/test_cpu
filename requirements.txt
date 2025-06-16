@@ -1,0 +1,6 @@
+psutil>=5.9.0
+google-generativeai>=0.3.0
+speechrecognition>=3.10.0
+noisereduce>=2.0.1
+numpy>=1.24.0
+pydub>=0.25.1
